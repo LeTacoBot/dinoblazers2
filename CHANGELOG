@@ -1,0 +1,13 @@
+Format:
+------------------------
+dm/mm/yy: Commit Title
++ Additions
+- Removals
+= Changes
+~ Unfinished business
+------------------------
+07/12/15: Initial Commit
++ Added Git Repository
+------------------------
+07/12/15: Added CHANGLOG
++ Added CHANGELOG, believe it or not.
